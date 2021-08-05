@@ -1,0 +1,2 @@
+rootProject.name = "CarteraContactos"
+include ':app'

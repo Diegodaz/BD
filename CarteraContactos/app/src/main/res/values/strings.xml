@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CarteraContactos</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_direc">Direccion:</string>
+    <string name="hint_correo_electronico">Correo Electronico:</string>
+    <string name="hint_telefono">Telefono:</string>
+    <string name="btn_guarda">Guardar Registro:</string>
+    <string name="menu_nuevo">Nuevo Registro:</string>
+</resources>
